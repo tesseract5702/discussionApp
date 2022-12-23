@@ -1,0 +1,77 @@
+body
+{
+    word-wrap: break-word;
+}
+.leftPane
+{
+    height: 95vh;
+    padding: 0px;
+}
+#newQBtn
+{
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    width: fit-content;
+}
+#srchBox
+{
+    margin-top: 2vh;
+    margin-right: 0px;
+    margin-bottom: 2vh;   
+}
+#frstRowlp
+{
+    background-color: white;
+    border-right: 1px solid grey;
+    margin-right: 0px;
+}
+
+.headin
+{
+    margin-top: 5vh;
+    margin-left: 5vh;
+}
+#rightPane{
+    margin-left: 5vh;
+}
+#subBox
+{
+    margin:2vh 0vh 1vh 5vh;
+    width: 50vh;
+}
+#txtarea
+{
+    margin-left: 5vh;
+}
+#divSub
+{
+    margin-right: 11vh;
+}
+#scndRow
+{
+    text-align: left;
+    margin-right: 0px;
+}
+.newQBtnDiv
+{
+    padding: 0px;
+}
+#afterLeftPane
+{
+    margin-top: 5vh;
+    margin-left: 10vh;
+    display: none;
+}
+.container-fluid
+{
+    margin-right: 0px;
+    padding-right: 0px;
+    margin-left: 0px;
+    padding-left: 0px;
+}
+#rightPaneId>h6{
+    margin-left: 5vh;
+}
+#submitBtn{
+    margin-left: 5vh;
+}
